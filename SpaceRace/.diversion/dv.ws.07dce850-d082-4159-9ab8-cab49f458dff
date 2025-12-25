@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.07dce850-d082-4159-9ab8-cab49f458dff",
+  "RepoID": "dv.repo.ac15b91b-ecba-4564-810d-3e18d30f5c51",
+  "Path": "A:\\UE Projects\\SpaceRace",
+  "AccountID": "dv.u.83b27e7f8e9f398b",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "SpaceRace",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
